@@ -2,7 +2,7 @@
 <html>
 <body>
 <?php 
- echo $_GET["password"]; "
+ echo $_GET["password"]; 
 ?>
 </body>
 </html>
