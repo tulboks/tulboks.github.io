@@ -1,5 +1,5 @@
 <?php
-        $email;$comment;$captcha;
+    /*    $email;$comment;$captcha;
         if(isset($_POST['email'])){
           $email=$_POST['email'];
         }if(isset($_POST['comment'])){
@@ -20,4 +20,5 @@
         } else {
           echo '<h2>Thanks for posting comment.</h2>';
         }
+        */
 ?>
